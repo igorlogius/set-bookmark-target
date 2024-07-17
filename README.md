@@ -1,9 +1,14 @@
 Select default opening targets for your bookmarks. Currently possible targets are: new tab, new background tab, new window or new private window. 
 
+[![](https://raw.githubusercontent.com/igorlogius/igorlogius/main/geFxAddon.png)](https://addons.mozilla.org/firefox/addon/set-bookmark-target/)
+
+### [Click here to report a bug, make a suggestion or ask a question](https://github.com/igorlogius/igorlogius/issues/new/choose)
+
+
 <b>Short Demo Video</b>
 tbd.
 
-<b>Usage: (Basic / Single) </b>
+<b>Usage:</b>
 <ol>
   <li>Right click on a bookmark</li>
   <li>Select the target you wont in the "Set Bookmark Target" context menu </li>
