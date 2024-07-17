@@ -1,0 +1,22 @@
+{
+  "author": "igorlogius",
+  "homepage_url": "https://github.com/igorlogius/bookmark-options",
+  "description": "Select default opening targets for your bookmarks. Currently possible targets are: new tab, new background tab, new window or new private window.",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Set Bookmark Target",
+  "permissions": [
+    "tabs",
+    "bookmarks",
+    "menus",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "version": "1.0.0"
+}
