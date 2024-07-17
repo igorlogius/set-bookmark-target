@@ -12,5 +12,6 @@ tbd.
 <ol>
   <li>Right click on a bookmark</li>
   <li>Select the target you wont in the "Set Bookmark Target" context menu </li>
+  <li>Note: to use the Private Window option, the user has to grant the addon the permission to run in the private window context (Option switch can be found in the addon settings)</li>
 </ol>
 
