@@ -6,7 +6,8 @@ Select default opening targets for your bookmarks. Currently possible targets ar
 
 
 <b>Short Demo Video</b>
-tbd.
+
+https://github.com/user-attachments/assets/69da4bb6-0809-456d-a869-c5c6d222d3ef
 
 <b>Usage:</b>
 <ol>
